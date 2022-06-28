@@ -44,4 +44,7 @@ Here are all keywords (with desc):
     float            Floating-point number
     double           High-precision floating-point number
 
+# Programming in VS Code
+You can use the [NOB Syntax Highlighter](https://github.com/NOBproject/NOBSyntax/) and the [NOB IntelliSense](https://github.com/NOBproject/NOBSense/) extensions to get the full NOB experience.
+
 # Thank you!
