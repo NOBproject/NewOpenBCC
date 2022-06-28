@@ -99,6 +99,7 @@ PRIVATE struct keywordstruct keywords[NKEYWORDS] =
 
     { "asm", ASMSYM, },
     { "exit", BREAKSYM, },
+    { "sizeof", SIZEOFSYM, },
     { "case", CASESYM, },
     { "continue", CONTSYM, },
     { "default", DEFAULTSYM, },
@@ -108,7 +109,6 @@ PRIVATE struct keywordstruct keywords[NKEYWORDS] =
     { "goto", GOTOSYM, },
     { "if", IFSYM, },
     { "return", RETURNSYM, },
-    { "sizeof", SIZEOFSYM, },
     { "switch", SWITCHSYM, },
     { "while", WHILESYM, },
     { "until", UNTILSYM, },
