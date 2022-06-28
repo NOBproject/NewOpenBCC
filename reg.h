@@ -1,6 +1,7 @@
 /* reg.h - registers for bcc */
 
-/* Copyright (C) 1992 Bruce Evans */
+ /* Copyright (C) 1992 Bruce Evans
+ Copyright (C) 2022 GoombaProgrammer */
 
 /*
   The compiler generates "addresses" of the form

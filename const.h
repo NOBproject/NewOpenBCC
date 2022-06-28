@@ -1,6 +1,7 @@
 /* const.h - constants for bcc */
 
-/* Copyright (C) 1992 Bruce Evans */
+ /* Copyright (C) 1992 Bruce Evans
+ Copyright (C) 2022 GoombaProgrammer */
 
 #ifdef __STDC__
 #include <stdlib.h>

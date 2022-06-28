@@ -1,6 +1,7 @@
 /* proto.h - extern functions for bcc */
 
-/* Copyright (C) 1992 Bruce Evans */
+ /* Copyright (C) 1992 Bruce Evans
+ Copyright (C) 2022 GoombaProgrammer */
 
 /* assign.c */
 void assign P((struct symstruct *source, struct symstruct *target));

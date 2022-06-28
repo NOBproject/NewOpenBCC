@@ -1,6 +1,7 @@
 /* glogcode.c - generate code for logical expressions for bcc */
 
-/* Copyright (C) 1992 Bruce Evans */
+ /* Copyright (C) 1992 Bruce Evans
+ Copyright (C) 2022 GoombaProgrammer */
 
 #include "bcc.h"
 #include "condcode.h"

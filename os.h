@@ -1,6 +1,7 @@
 /* os.h - source/target operating system dependencies for bcc */
 
-/* Copyright (C) 1992 Bruce Evans */
+ /* Copyright (C) 1992 Bruce Evans
+ Copyright (C) 2022 GoombaProgrammer */
 
 /*
   must have unix-near-compatible creat, open, read, write and close

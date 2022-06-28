@@ -1,6 +1,7 @@
 /* types.h - type definitions for bcc */
 
-/* Copyright (C) 1992 Bruce Evans */
+ /* Copyright (C) 1992 Bruce Evans
+ Copyright (C) 2022 GoombaProgrammer */
 
 /*
   source types big enough to handle target quantities

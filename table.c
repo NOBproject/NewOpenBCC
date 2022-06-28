@@ -1,6 +1,7 @@
 /* table.c - table handler for bcc */
 
-/* Copyright (C) 1992 Bruce Evans */
+ /* Copyright (C) 1992 Bruce Evans
+ Copyright (C) 2022 GoombaProgrammer */
 
 /* Can I now get rid of EXPRLEVEL?   Yes, except expression symbols must
  * usually be set to some level different from OFFKLUDGELEVEL.

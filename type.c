@@ -1,6 +1,7 @@
 /* type.c - type and storage-class routines for bcc */
 
-/* Copyright (C) 1992 Bruce Evans */
+ /* Copyright (C) 1992 Bruce Evans
+ Copyright (C) 2022 GoombaProgrammer */
 
 #include "bcc.h"
 #include "align.h"

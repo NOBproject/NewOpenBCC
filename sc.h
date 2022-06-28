@@ -1,6 +1,7 @@
 /* sc.h - storage classes for bcc */
 
-/* Copyright (C) 1992 Bruce Evans */
+ /* Copyright (C) 1992 Bruce Evans
+ Copyright (C) 2022 GoombaProgrammer */
 
 #ifdef MC6809
 #define DIRECTPAGE  0x01	/* modifier on global to show in dpseg */

@@ -1,6 +1,7 @@
 /* align.h - memory alignment requirements for bcc */
 
-/* Copyright (C) 1992 Bruce Evans */
+ /* Copyright (C) 1992 Bruce Evans
+ Copyright (C) 2022 GoombaProgrammer */
 
 #ifndef S_ALIGNMENT
 # define align(x) (x)

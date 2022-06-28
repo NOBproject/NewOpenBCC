@@ -1,6 +1,7 @@
 /* table.h - table handler for bcc */
 
-/* Copyright (C) 1992 Bruce Evans */
+ /* Copyright (C) 1992 Bruce Evans
+ Copyright (C) 2022 GoombaProgrammer */
 
 EXTERN char *charptr;		/* next free spot in catchall table */
 EXTERN char *chartop;		/* spot after last in table */

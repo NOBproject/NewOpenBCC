@@ -1,6 +1,7 @@
 /* sizes.h - target scalar type sizes for bcc */
 
-/* Copyright (C) 1992 Bruce Evans */
+ /* Copyright (C) 1992 Bruce Evans
+ Copyright (C) 2022 GoombaProgrammer */
 
 /*
   the compiler is not very portable in this area

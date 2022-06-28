@@ -1,6 +1,7 @@
 /* condcode.h - condition codes for bcc */
 
-/* Copyright (C) 1992 Bruce Evans */
+ /* Copyright (C) 1992 Bruce Evans
+ Copyright (C) 2022 GoombaProgrammer */
 
 #define EQ 0
 #define NE 1

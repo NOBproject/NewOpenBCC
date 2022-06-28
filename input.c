@@ -1,6 +1,7 @@
 /* input.c - input for bcc */
 
-/* Copyright (C) 1992 Bruce Evans */
+ /* Copyright (C) 1992 Bruce Evans
+ Copyright (C) 2022 GoombaProgrammer */
 
 #define ARBITRARY_BACKSLASH_NEWLINES_NOT
 #define INSERT_BACKSLASH_NEWLINES_NOT

@@ -1,6 +1,7 @@
 /* softop.c - software operations for bcc */
 
-/* Copyright (C) 1992 Bruce Evans */
+ /* Copyright (C) 1992 Bruce Evans
+ Copyright (C) 2022 GoombaProgrammer */
 
 #include "bcc.h"
 #include "gencode.h"

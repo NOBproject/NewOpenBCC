@@ -1,6 +1,7 @@
 /* byteord.h - byte order dependencies for bcc */
 
-/* Copyright (C) 1992 Bruce Evans */
+ /* Copyright (C) 1992 Bruce Evans
+ Copyright (C) 2022 GoombaProgrammer */
 
 #ifdef I8088
 # define INT_BIG_ENDIAN 0

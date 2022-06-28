@@ -1,6 +1,7 @@
 /* type.h - types for bcc */
 
-/* Copyright (C) 1992 Bruce Evans */
+ /* Copyright (C) 1992 Bruce Evans
+ Copyright (C) 2022 GoombaProgrammer */
 
 /*
   A type is essentially a "constructor", a size, and a list of pointers

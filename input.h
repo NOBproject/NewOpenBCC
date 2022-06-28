@@ -1,6 +1,7 @@
 /* input.h - input for bcc */
 
-/* Copyright (C) 1992 Bruce Evans */
+ /* Copyright (C) 1992 Bruce Evans
+ Copyright (C) 2022 GoombaProgrammer */
 
 #define FAKE_INBUFSIZE_1_NOT
 

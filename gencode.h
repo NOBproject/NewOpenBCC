@@ -1,6 +1,7 @@
 /* gencode.h - code generation for bcc */
 
-/* Copyright (C) 1992 Bruce Evans */
+ /* Copyright (C) 1992 Bruce Evans
+ Copyright (C) 2022 GoombaProgrammer */
 
 #ifdef MC6809
 # define CANABXCUTOFF 7		/* favour ABX over MUL before this */

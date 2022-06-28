@@ -1,6 +1,7 @@
 /* scan.h - scanner for bcc */
 
-/* Copyright (C) 1992 Bruce Evans */
+ /* Copyright (C) 1992 Bruce Evans
+ Copyright (C) 2022 GoombaProgrammer */
 
 #define NAMESIZE	64	/* limit on identifier lengths */
 #define SYMOFCHAR(ch)	(symofchar[(unsigned char) (ch)])

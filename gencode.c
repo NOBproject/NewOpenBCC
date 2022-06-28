@@ -1,6 +1,7 @@
 /* gencode.c - generate code for an expression tree for bcc */
 
-/* Copyright (C) 1992 Bruce Evans */
+ /* Copyright (C) 1992 Bruce Evans
+ Copyright (C) 2022 GoombaProgrammer */
 
 #define islvalop(op) \
 	(((op) >= ASSIGNOP && (op) <= SUBABOP) || (op) == PTRADDABOP)

@@ -1,6 +1,7 @@
 /* scan.c - lexical analyser for bcc */
 
-/* Copyright (C) 1992 Bruce Evans */
+ /* Copyright (C) 1992 Bruce Evans
+ Copyright (C) 2022 GoombaProgrammer */
 
 #define GCH1() do { if (SYMOFCHAR(ch = *++lineptr) == SPECIALCHAR) specialchar(); } while (0)
 

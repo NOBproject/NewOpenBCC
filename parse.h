@@ -1,6 +1,7 @@
 /* parse.h - parser for bcc */
 
-/* Copyright (C) 1992 Bruce Evans */
+ /* Copyright (C) 1992 Bruce Evans
+ Copyright (C) 2022 GoombaProgrammer */
 
 /* possible scope levels */
 
