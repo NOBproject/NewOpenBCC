@@ -999,12 +999,12 @@ struct nodestruct *nodeptr;
     case ASSIGNOP:
 	if (right->nodetype->constructor & VOID)
 	{
-	    error("assignment of void");
+	    error("assignment of subroutine");
 	    fixnode(right);
 	}
 	if (targtype->constructor & (ARRAY | FUNCTION | VOID))
 	{
-	    error("assignment to array, function or void");
+	    error("assignment to array, function or subroutine");
 	    fixnode(nodeptr);
 	    return errtype;
 	}
